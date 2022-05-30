@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "name": "Ann Liebmann",
+        "number": "+27-61-453-5444",
+        "mail": "ann.lieb@yahoo.com",
+        "policyNo": "0013983887 | 0013983887"
+    },
+    {
+        "id": 1,
+        "name": "Ann Summer",
+        "number": "+27-61-453-5444",
+        "mail": "ann.summer@yahoo.com",
+        "policyNo": "0013983887 | 0013983887"
+    },
+    {
+        "id": 2,
+        "name": "Anabelle Samuel",
+        "number": "+27-61-453-5444",
+        "mail": "anna.samuel@yahoo.com",
+        "policyNo": "0013983887 | 0013983887"
+    },
+    {
+        "id": 3,
+        "name": "Emre Sabanci",
+        "number": "+27-61-453-5444",
+        "mail": "emre.sabanci@yahoo.com",
+        "policyNo": "05068917584 | 005068917584"
+    },
+    {
+        "id": 4,
+        "name": "Çağrı Sabanci",
+        "number": "+27-61-453-5444",
+        "mail": "cagri.sabanci@yahoo.com",
+        "policyNo": "055666888212 | 00055666888212"
+    }
+]

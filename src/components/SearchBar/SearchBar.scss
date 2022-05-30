@@ -1,0 +1,40 @@
+.search-bar {
+  background-color: #504566;
+  height: 5rem;
+  position: relative;
+  input {
+    color: #ffff;
+    width: 60%;
+    opacity: 0.5;
+    background: none;
+    border-bottom: 1px solid #ccc !important;
+    &:focus-visible {
+      outline: none;
+    }
+    &::placeholder {
+      color: #ccc;
+    }
+    &::-webkit-search-cancel-button {
+      -webkit-appearance: none;
+      height: 20px;
+      width: 20px;
+      border-radius: 50%;
+      background: url(https://pro.fontawesome.com/releases/v5.10.0/svgs/solid/times-circle.svg) no-repeat 50% 50%;
+    }
+  }
+  &-icon {
+    fill: #ccc;
+    opacity: 0.7;
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+}
+@media (max-width: 767.98px) {
+  .search-bar {
+    input {
+      width: 100%;
+    }
+  }
+}
