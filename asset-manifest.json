@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/customer-details/static/css/main.aeee88db.css",
+    "main.js": "/customer-details/static/js/main.db918761.js",
+    "index.html": "/customer-details/index.html",
+    "main.aeee88db.css.map": "/customer-details/static/css/main.aeee88db.css.map",
+    "main.db918761.js.map": "/customer-details/static/js/main.db918761.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aeee88db.css",
+    "static/js/main.db918761.js"
+  ]
+}
